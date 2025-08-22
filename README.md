@@ -4,14 +4,15 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary> 🎶 Busy coding & Vibing to :   </summary> </strong></p>
+<p><strong> <summary>  AI & ML :   
+</summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
+<br>
 
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omar-ahmed&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fomar-ahmed&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+<!--![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fomar-ahmed&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)*/-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OmarAhmed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/) <br>
 </div>
 

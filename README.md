@@ -22,8 +22,8 @@
 
 🎓 Student at Faculty of Artificial Intelligence 
 💡 Passionate about Artificial Intelligence, Machine Learning, and Data Science
-🚀 Exploring **Software Engineering and Databases
-📊 Active in **Entrepreneurship & Events Management (AIEC Community)
+🚀 Exploring Software Engineering and AI
+📊 Active in Entrepreneurship & Events Management (AIEC Community)
 
 ---
 

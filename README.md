@@ -30,12 +30,13 @@
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-<!--![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)-->
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=oracle&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+<!--![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)-->
+
 
 ```dart
 class About extends Me {

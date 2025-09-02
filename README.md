@@ -41,8 +41,8 @@
 ```dart
 class About extends Me {
   const myFocus = {
-    "Learning" : { "Machine Learning", "Databases", "Networks", "Operating Systems" },
+    "Learning" : { "Machine Learning", "Databases", "Networks", "Operating Systems", "Deep Learning" },
     "Projects" : { "Data Science and Analytics", "Hospital Management DB", "Online Car Buying Platform" ,"Data Preparation "},
-    "Interests" : { "AI Research", "Dashboards", "Event Management" }
+    "Interests" : { "AI & ML", "Computer Vision", "Event Management" }
   };
 }

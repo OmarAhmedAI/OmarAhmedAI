@@ -20,10 +20,9 @@
 
 # 👋 Hi, I'm Omar Ahmed  
 
-🎓 Student at Faculty of Artificial Intelligence 
-💡 Passionate about Artificial Intelligence, Machine Learning, and Data Science
-🚀 Exploring Software Engineering and AI
-📊 Active in Entrepreneurship & Events Management (AIEC Community)
+🎓 I am a Data Science student at Faculty of Artificial Intelligence, passionate about Machine Learning and Software Development.
+🚀 I have built projects using Python, SQL (Oracle), and GUIs, including applications with machine learning models.
+📊 As an active member of AIEC, I aim to grow in Artificial Intelligence, Innovation, and Entrepreneurship.
 
 ---
 
